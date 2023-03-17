@@ -15,7 +15,7 @@ question.
    $ npm install
    ```
 
-3. Generate your [API key](https://platform.openai.com/account/api-keys) remember to copy it. You can't retrieve it once you created.
+3. Generate your [API key](https://platform.openai.com/account/api-keys) and remember to copy it. Once it's generated, you won't be able to retrieve it.
 
 4. Create a file .env in the root directory with this content:
 
