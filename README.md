@@ -38,8 +38,6 @@ Now, open another terminal and type:
         -d '{
             "prompt": "Say this is a test"
     }'
+    ```
 
-```
 Your app is running at por 30000, you can change that in the index.js
-
-```
