@@ -31,13 +31,13 @@ question.
 
 Now, open another terminal and type:
 
-    ```bash
-    curl -X POST \
-        http://localhost:30000/ask \
-        -H 'Content-Type: application/json' \
-        -d '{
-            "prompt": "Say this is a test"
-    }'
-    ```
+```bash
+ curl -X POST \
+     http://localhost:30000/ask \
+     -H 'Content-Type: application/json' \
+     -d '{
+         "prompt": "Say this is a test"
+ }'
+```
 
 Your app is running at por 30000, you can change that in the index.js
